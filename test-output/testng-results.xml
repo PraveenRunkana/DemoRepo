@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="32486" started-at="2024-01-19T21:33:02Z" finished-at="2024-01-19T21:33:34Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="32486" started-at="2024-01-19T21:33:02Z" finished-at="2024-01-19T21:33:34Z">
+      <class name="com.TestNG.GoogleTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.TestNG.GoogleTest@ae45eb6]" name="setup" is-config="true" duration-ms="31616" started-at="2024-01-19T21:33:02Z" finished-at="2024-01-19T21:33:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="titleValidation()[pri:1, instance:com.TestNG.GoogleTest@ae45eb6]" name="titleValidation" duration-ms="78" started-at="2024-01-19T21:33:34Z" finished-at="2024-01-19T21:33:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleValidation -->
+        <test-method status="PASS" signature="signinButtonValidation()[pri:2, instance:com.TestNG.GoogleTest@ae45eb6]" name="signinButtonValidation" duration-ms="482" started-at="2024-01-19T21:33:34Z" finished-at="2024-01-19T21:33:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signinButtonValidation -->
+        <test-method status="PASS" signature="tit1leValidation()[pri:3, instance:com.TestNG.GoogleTest@ae45eb6]" name="tit1leValidation" duration-ms="59" started-at="2024-01-19T21:33:34Z" finished-at="2024-01-19T21:33:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tit1leValidation -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.TestNG.GoogleTest@ae45eb6]" name="tearDown" is-config="true" duration-ms="392" started-at="2024-01-19T21:33:35Z" finished-at="2024-01-19T21:33:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.TestNG.GoogleTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
